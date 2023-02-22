@@ -80,3 +80,7 @@ Run these commands from the root folder of the repository:
 * `npm run test` to run all tests  
 * `npm run dev` to run the vite developmenet server  
 
+References:
+* https://markus.oberlehner.net/blog/using-testing-library-jest-dom-with-vitest/
+* https://testing-library.com/docs/queries/about#priority
+* https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
