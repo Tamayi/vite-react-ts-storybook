@@ -15,8 +15,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0",
-    "storybook": "^6.5.16",
-    "@storybook/react": "^6.5.16"
+    "storybook": "^6.5.16"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",
@@ -33,6 +32,7 @@
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",
     "@vitejs/plugin-react": "^2.2.0",
+    "@storybook/react": "^6.5.16",
     "babel-loader": "^8.3.0",
     "eslint": "^8.23.0",
     "eslint-config-airbnb": "^19.0.4",

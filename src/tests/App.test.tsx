@@ -14,7 +14,7 @@ describe('App', () => {
       screen.getByRole('heading', {
         level: 1,
       })
-    ).toHaveTextContent('Vite + React + TS + Storybook + ESlint Application');
+    ).toHaveTextContent('Header Component');
   });
 
   it('Renders not found if invalid path', () => {

@@ -34,7 +34,7 @@ export const Header = ({ user, onLogin, onLogout, onCreateAccount }: HeaderProps
             />
           </g>
         </svg>
-        <h1>Vite + React + TS + Storybook + ESlint Application</h1>
+        <h1>Header Component</h1>
       </div>
       <div>
         {user ? (
